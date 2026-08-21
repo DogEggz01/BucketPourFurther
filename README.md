@@ -1,6 +1,6 @@
-Add a check for bucket content, if it's sea water, bucket pour range double from vanilla
+Bucket pour range double from vanilla when it's taking sea water.
 
-If it's other liquid, remain vanilla behavior.
+If it's other liquid, remain vanilla pouring distance.
 
 This is to let bucket still be able to drink other liquid like vanilla.
 
